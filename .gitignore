@@ -1,0 +1,16 @@
+# Игнорировать системные файлы
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Игнорировать файлы IDE
+.idea/
+.vscode/
+
+# Игнорировать файлы Git
+.git/
+.gitignore
+
+
+
