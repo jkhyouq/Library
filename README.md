@@ -13,11 +13,11 @@
 ## Установка
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your_username/library_project.git
+    git clone https://github.com/jkhyouq/Library.git
     ```
 2. В папке проекта:
     ```bash
-    cd library_project
+    cd library
     ```
 3. Установите Python (если еще не установлен).
 
